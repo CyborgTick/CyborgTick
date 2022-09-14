@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CyborgTick
 - 👀 I’m interested in Hacking and Web3
-- 🌱 I’m currently learning Flutter Dart
+- 🌱 I’m currently learning to sleep
 - 💞️ I’m looking to collaborate on Blockchain projects
 - 📫 How to reach me twitter: @JoelOnyeike
 
